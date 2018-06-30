@@ -21,6 +21,6 @@ def errors(app):
     @app.errorhandler(404)
     def page_not_found(e):
         return render_template('errors/error404.html')
-
+    @app.errorhandler(500)
     def server_error(e):
         return render_template('errors/error500.html')
