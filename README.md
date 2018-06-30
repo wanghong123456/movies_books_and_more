@@ -81,4 +81,6 @@ if __name__ == '__main__':
     manager.run()
 ```
 
-In addition to that,I also edited the “extensions.py” and “settings.py”.Emmmm,ok,just browse them in the project by yourself.
+In addition to that,I also edited the “extensions.py” and “settings.py”.Emmmm,ok,just browse them in the project by yourself.    
+
+By the way,to build a website is too tired.  
